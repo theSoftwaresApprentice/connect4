@@ -17,11 +17,11 @@
 
 /* TODO: make pieces red/blue,  depending on player 1/2 piece */
 .piece.p1 {
-color: red;
+background-color: red;
 }
 
 .piece.p2 {
-color: blue;
+background-color: blue;
 }
 /* column-top is table row of clickable areas for each column */
 
